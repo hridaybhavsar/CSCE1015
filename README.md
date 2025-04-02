@@ -1,4 +1,4 @@
-# CSCE1015 - Hochstetler
+# CSCE1015 - Hriday
 
 Assignment repository for UNT CSCE1015
 
